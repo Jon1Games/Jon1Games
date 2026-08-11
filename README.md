@@ -5,4 +5,4 @@
 - 💬 You can ask me anything, maybe i can help you 😊
 - 📫 How to reach me: Jon1Games on discord 
 
-[![Jon1Games GitHub stats](https://github-readme-stats.vercel.app/api?username=Jon1Games&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Jon1Games GitHub stats](https://github-stats-extended.vercel.app/api?username=Jon1Games&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
